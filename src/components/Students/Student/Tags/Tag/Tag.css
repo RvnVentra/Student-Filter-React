@@ -1,0 +1,19 @@
+.Tag {
+    border: 1px solid #a6a6a6;
+    background: lightgray;
+    color: gray;
+    list-style: none;
+    width: fit-content;
+    height: 40px;
+    border-radius: 5px;
+    float: left;
+    margin-left: 5px;
+}
+
+#tag {
+    display: flex;
+    justify-content: center;
+    margin-top: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
+}

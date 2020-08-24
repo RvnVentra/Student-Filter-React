@@ -1,0 +1,72 @@
+.Student {
+    border-bottom: 1px solid lightgray;
+    height: fit-content;
+    color: #a6a6a6;
+}
+
+.Student .Profile {
+    border: 1px solid lightgray;
+    border-radius: 65px;
+    width: 125px;
+    height: 125px;
+    float: left;
+    margin: 25px;
+}
+
+.Student button {
+    border: none;
+    background: transparent;
+    outline: none;
+    cursor: pointer;
+    overflow: hidden;
+    float: right;
+    margin-right: 10px;
+    margin-top: 3px;
+}
+
+.Student .PlusSign {
+    background: transparent;
+    border: none;
+    outline: none;
+    height: 30px;
+    width: 30px;
+}
+
+.Student strong {
+    /* border: 1px solid black; */
+    font-size: 2.5em;
+    text-transform: uppercase;
+    color: black;
+}
+
+.Student .Info {
+    margin-left: 205px;
+}
+
+.Student .Grade {
+    list-style: none;
+}
+
+.Student .Grade span {
+    padding-left: 15px;
+}
+
+.Student .Tags {
+    /* border: 1px solid black; */
+    width: 95%;
+    height: 42px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.Student .add-tag-input {
+    margin-bottom: 15px;
+    width: 35%;
+    border: none;
+    border-bottom: 1.5px solid darkgray;
+    outline: none;
+    font-size: 15px;
+    color: #a6a6a6;
+    height: 30px;
+    clear: left;
+}

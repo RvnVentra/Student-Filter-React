@@ -1,3 +1,5 @@
+This project was made as an assessment of front-end skills for an agency company seeking to hire new graduates.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
